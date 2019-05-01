@@ -1,7 +1,5 @@
 package com.ashok.DesignPatterns.abstractFactory.product;
-
 import com.ashok.DesignPatterns.abstractFactory.BaseToppingFactory;
-
 /**
  * Created by ashok jung bahadur
  */

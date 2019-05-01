@@ -1,9 +1,7 @@
 package com.ashok.DesignPatterns.abstractFactory.topping;
-
 /**
  * Created by ashok jung bahadur
  */
-
 public class TomatoSauce implements Sauce {
 
     public TomatoSauce()

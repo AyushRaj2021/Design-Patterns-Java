@@ -1,6 +1,4 @@
 package com.ashok.DesignPatterns.abstractFactory.product;
-
-
 /**
  * Created by ashok jung bahadur
  */
