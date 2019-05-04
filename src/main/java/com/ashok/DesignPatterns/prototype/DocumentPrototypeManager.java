@@ -14,7 +14,7 @@ public class DocumentPrototypeManager {
 
     static {
         TermsAndConditions tAndC = new TermsAndConditions();
-        tAndC.setVendorName("Vendor Name Placeholder");
+        tAndC.setVendorName("Patrick Smith");
 
         /*Retrieve Terms and Conditions from database/network call/disk I/O here*/
         tAndC.setContent("Please read and accept the terms and conditions...");
@@ -25,7 +25,7 @@ public class DocumentPrototypeManager {
         authorizedSignatory.setDesignation("Operation Head");
 
         NonDisclosureAgreement nda = new NonDisclosureAgreement();
-        nda.setVendorName("Vendor Name Placeholder");
+        nda.setVendorName("Patrick Smith");
 
         /*Retrieve Non Disclosure Agreement from database/network call/disk I/O here*/
         nda.setContent("Please read and accept the NDA...");
