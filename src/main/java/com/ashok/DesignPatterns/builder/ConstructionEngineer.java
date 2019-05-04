@@ -1,4 +1,4 @@
-package com.ashok.DesignPatterns.builder.director;
+package com.ashok.DesignPatterns.builder;
 
 import com.ashok.DesignPatterns.builder.builders.HouseBuilder;
 import com.ashok.DesignPatterns.builder.product.House;

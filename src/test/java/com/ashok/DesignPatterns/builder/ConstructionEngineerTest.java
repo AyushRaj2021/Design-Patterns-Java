@@ -1,11 +1,10 @@
-package com.ashok.DesignPatterns.builder.director;
+package com.ashok.DesignPatterns.builder;
 import org.junit.Test;
 
 import com.ashok.DesignPatterns.builder.product.House;
 import com.ashok.DesignPatterns.builder.builders.HouseBuilder;
 import com.ashok.DesignPatterns.builder.builders.ConcreteHouseBuilder;
 import com.ashok.DesignPatterns.builder.builders.PrefabricatedHouseBuilder;
-import com.ashok.DesignPatterns.builder.director.ConstructionEngineer;
 
 /**
  * Created by ashok jung bahadur
